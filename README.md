@@ -46,6 +46,9 @@ A continuación se muestra el código completo del sistema desarrollado en Java,
 ### Captura / Pantallazo 8:
 ![Parte 8](img/code8.png)
 
+### Captura / Pantallazo 9:
+![Parte 9](img/code9.png)
+
 ---
 **Desarrollado por:** Victor Cordoba  
 **Carrera:** Ingenieria Informatica
