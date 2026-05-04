@@ -17,6 +17,36 @@ El código fuente principal con toda la lógica del programa se encuentra en la 
 > **Nota para el profesor:** He decidido subir el proyecto completo a este repositorio de GitHub para garantizar la visualización del código con total claridad y evitar la saturación del documento de entrega con capturas de pantalla.
 
 ---
+
+## 💻 Capturas del Código Fuente
+
+A continuación se muestra el código completo del sistema desarrollado en Java, dividido en secciones para facilitar su lectura:
+
+### Captura / Pantallazo 1:
+![Parte 1](img/code1.png)
+
+### Captura / Pantallazo 2:
+![Parte 2](img/code2.png)
+
+### Captura / Pantallazo 3:
+![Parte 3](img/code3.png)
+
+### Captura / Pantallazo 4:
+![Parte 4](img/code4.png)
+
+### Captura / Pantallazo 5:
+![Parte 5](img/code5.png)
+
+### Captura / Pantallazo 6:
+![Parte 6](img/code6.png)
+
+### Captura / Pantallazo 7:
+![Parte 7](img/code7.png)
+
+### Captura / Pantallazo 8:
+![Parte 8](img/code8.png)
+
+---
 **Desarrollado por:** Victor Cordoba  
 **Carrera:** Ingenieria Informatica
 **Materia:** Estructuras de Datos  
