@@ -18,5 +18,6 @@ El código fuente principal con toda la lógica del programa se encuentra en la 
 
 ---
 **Desarrollado por:** Victor Cordoba  
-**Materia:** Ingenieria Informatica / Estructuras de Datos  
+**Carrera:** Ingenieria Informatica
+**Materia:** Estructuras de Datos  
 **Institución:** Corporación Universitaria Lasallista
